@@ -66,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Aniruddha775/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Aniruddha775/LeetCode/tree/master/0645-set-mismatch) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/Aniruddha775/LeetCode/tree/master/1894-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/Aniruddha775/LeetCode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
