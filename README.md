@@ -78,6 +78,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Aniruddha775/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0392-is-subsequence](https://github.com/Aniruddha775/LeetCode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Aniruddha775/LeetCode/tree/master/1894-merge-strings-alternately) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Aniruddha775/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
