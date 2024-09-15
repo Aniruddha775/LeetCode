@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Aniruddha775/LeetCode/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Aniruddha775/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Aniruddha775/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/Aniruddha775/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aniruddha775/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Aniruddha775/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2350-find-closest-number-to-zero](https://github.com/Aniruddha775/LeetCode/tree/master/2350-find-closest-number-to-zero) |
@@ -97,10 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aniruddha775/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aniruddha775/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Aniruddha775/LeetCode/tree/master/0645-set-mismatch) |
+| [1019-squares-of-a-sorted-array](https://github.com/Aniruddha775/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Aniruddha775/LeetCode/tree/master/0392-is-subsequence) |
+| [1019-squares-of-a-sorted-array](https://github.com/Aniruddha775/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Aniruddha775/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
