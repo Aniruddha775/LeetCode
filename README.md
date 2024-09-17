@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aniruddha775/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/Aniruddha775/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aniruddha775/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Aniruddha775/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Aniruddha775/LeetCode/tree/master/0392-is-subsequence) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aniruddha775/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Aniruddha775/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Aniruddha775/LeetCode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Aniruddha775/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Aniruddha775/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aniruddha775/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Aniruddha775/LeetCode/tree/master/0383-ransom-note) |
