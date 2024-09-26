@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aniruddha775/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aniruddha775/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Aniruddha775/LeetCode/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aniruddha775/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aniruddha775/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aniruddha775/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Aniruddha775/LeetCode/tree/master/0645-set-mismatch) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Aniruddha775/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Aniruddha775/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Aniruddha775/LeetCode/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aniruddha775/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/Aniruddha775/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/Aniruddha775/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1894-merge-strings-alternately](https://github.com/Aniruddha775/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniruddha775/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aniruddha775/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Aniruddha775/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aniruddha775/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
