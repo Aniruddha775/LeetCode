@@ -245,4 +245,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Aniruddha775/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Aniruddha775/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aniruddha775/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Aniruddha775/LeetCode/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Aniruddha775/LeetCode/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Aniruddha775/LeetCode/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Aniruddha775/LeetCode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
