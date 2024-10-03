@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Aniruddha775/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Aniruddha775/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Aniruddha775/LeetCode/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/Aniruddha775/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Aniruddha775/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aniruddha775/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Aniruddha775/LeetCode/tree/master/0383-ransom-note) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Aniruddha775/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Aniruddha775/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Aniruddha775/LeetCode/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/Aniruddha775/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Aniruddha775/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aniruddha775/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Aniruddha775/LeetCode/tree/master/0383-ransom-note) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aniruddha775/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/Aniruddha775/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 ## Counting
 |  |
 | ------- |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Aniruddha775/LeetCode/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/Aniruddha775/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 ## Linked List
 |  |
 | ------- |
