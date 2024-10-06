@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Aniruddha775/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Aniruddha775/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Aniruddha775/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1014-k-closest-points-to-origin](https://github.com/Aniruddha775/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aniruddha775/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aniruddha775/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/Aniruddha775/LeetCode/tree/master/1127-last-stone-weight) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aniruddha775/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Aniruddha775/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Aniruddha775/LeetCode/tree/master/0367-valid-perfect-square) |
+| [1014-k-closest-points-to-origin](https://github.com/Aniruddha775/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aniruddha775/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aniruddha775/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Aniruddha775/LeetCode/tree/master/0645-set-mismatch) |
+| [1014-k-closest-points-to-origin](https://github.com/Aniruddha775/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aniruddha775/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Aniruddha775/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aniruddha775/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Aniruddha775/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Union Find
 |  |
 | ------- |
@@ -329,9 +333,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aniruddha775/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Aniruddha775/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Aniruddha775/LeetCode/tree/master/1127-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aniruddha775/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Aniruddha775/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Aniruddha775/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
