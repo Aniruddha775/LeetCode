@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Aniruddha775/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Aniruddha775/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Aniruddha775/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Aniruddha775/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aniruddha775/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aniruddha775/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Aniruddha775/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Aniruddha775/LeetCode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Aniruddha775/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Aniruddha775/LeetCode/tree/master/0645-set-mismatch) |
 ## Sorting
@@ -351,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aniruddha775/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Aniruddha775/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
