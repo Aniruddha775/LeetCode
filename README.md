@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Aniruddha775/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Aniruddha775/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Aniruddha775/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Aniruddha775/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Aniruddha775/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Aniruddha775/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Aniruddha775/LeetCode/tree/master/0054-spiral-matrix) |
@@ -359,5 +360,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Aniruddha775/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Aniruddha775/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
