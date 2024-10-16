@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aniruddha775/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Aniruddha775/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Aniruddha775/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1013-fibonacci-number](https://github.com/Aniruddha775/LeetCode/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aniruddha775/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Aniruddha775/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Aniruddha775/LeetCode/tree/master/0367-valid-perfect-square) |
+| [1013-fibonacci-number](https://github.com/Aniruddha775/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Aniruddha775/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aniruddha775/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Aniruddha775/LeetCode/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/Aniruddha775/LeetCode/tree/master/1013-fibonacci-number) |
 ## Interactive
 |  |
 | ------- |
@@ -375,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Aniruddha775/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Aniruddha775/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Aniruddha775/LeetCode/tree/master/0079-word-search) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Aniruddha775/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
