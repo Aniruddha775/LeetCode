@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Aniruddha775/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Aniruddha775/LeetCode/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Aniruddha775/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0747-min-cost-climbing-stairs](https://github.com/Aniruddha775/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Aniruddha775/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Aniruddha775/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/Aniruddha775/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aniruddha775/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Aniruddha775/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Aniruddha775/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0747-min-cost-climbing-stairs](https://github.com/Aniruddha775/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Aniruddha775/LeetCode/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
