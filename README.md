@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Aniruddha775/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aniruddha775/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Aniruddha775/LeetCode/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/Aniruddha775/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Aniruddha775/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Aniruddha775/LeetCode/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Aniruddha775/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1250-longest-common-subsequence](https://github.com/Aniruddha775/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/Aniruddha775/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1894-merge-strings-alternately](https://github.com/Aniruddha775/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Trie
