@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Aniruddha775/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Aniruddha775/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Aniruddha775/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Aniruddha775/LeetCode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Aniruddha775/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Aniruddha775/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aniruddha775/LeetCode/tree/master/0268-missing-number) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Aniruddha775/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Aniruddha775/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aniruddha775/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/Aniruddha775/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Aniruddha775/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Aniruddha775/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/Aniruddha775/LeetCode/tree/master/1013-fibonacci-number) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Aniruddha775/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Aniruddha775/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aniruddha775/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Aniruddha775/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Aniruddha775/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Aniruddha775/LeetCode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Aniruddha775/LeetCode/tree/master/0567-permutation-in-string) |
