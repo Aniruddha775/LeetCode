@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aniruddha775/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Aniruddha775/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Aniruddha775/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Aniruddha775/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aniruddha775/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aniruddha775/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/Aniruddha775/LeetCode/tree/master/0228-summary-ranges) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Aniruddha775/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Aniruddha775/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Aniruddha775/LeetCode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Aniruddha775/LeetCode/tree/master/0200-number-of-islands) |
 | [1791-richest-customer-wealth](https://github.com/Aniruddha775/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Binary Search
 |  |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aniruddha775/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Aniruddha775/LeetCode/tree/master/0200-number-of-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Aniruddha775/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Stack
 |  |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aniruddha775/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aniruddha775/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aniruddha775/LeetCode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Aniruddha775/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Aniruddha775/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aniruddha775/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aniruddha775/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Aniruddha775/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aniruddha775/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aniruddha775/LeetCode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Aniruddha775/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Aniruddha775/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Aniruddha775/LeetCode/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aniruddha775/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
