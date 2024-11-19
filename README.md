@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Aniruddha775/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/Aniruddha775/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aniruddha775/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1036-rotting-oranges](https://github.com/Aniruddha775/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aniruddha775/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/Aniruddha775/LeetCode/tree/master/1127-last-stone-weight) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aniruddha775/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Aniruddha775/LeetCode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Aniruddha775/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Aniruddha775/LeetCode/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/Aniruddha775/LeetCode/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/Aniruddha775/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Binary Search
 |  |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Aniruddha775/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aniruddha775/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0695-max-area-of-island](https://github.com/Aniruddha775/LeetCode/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/Aniruddha775/LeetCode/tree/master/1036-rotting-oranges) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Aniruddha775/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
