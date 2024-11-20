@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Aniruddha775/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/Aniruddha775/LeetCode/tree/master/1127-last-stone-weight) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aniruddha775/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Aniruddha775/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1791-richest-customer-wealth](https://github.com/Aniruddha775/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2350-find-closest-number-to-zero](https://github.com/Aniruddha775/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 ## Matrix
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Aniruddha775/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Aniruddha775/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Aniruddha775/LeetCode/tree/master/0695-max-area-of-island) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Aniruddha775/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Aniruddha775/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Stack
 |  |
@@ -467,10 +469,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Aniruddha775/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Aniruddha775/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aniruddha775/LeetCode/tree/master/0210-course-schedule-ii) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Aniruddha775/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Aniruddha775/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Aniruddha775/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aniruddha775/LeetCode/tree/master/0210-course-schedule-ii) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Aniruddha775/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
