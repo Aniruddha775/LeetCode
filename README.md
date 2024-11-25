@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Aniruddha775/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Aniruddha775/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/Aniruddha775/LeetCode/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/Aniruddha775/LeetCode/tree/master/0744-network-delay-time) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Aniruddha775/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Aniruddha775/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aniruddha775/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0695-max-area-of-island](https://github.com/Aniruddha775/LeetCode/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/Aniruddha775/LeetCode/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/Aniruddha775/LeetCode/tree/master/1036-rotting-oranges) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Aniruddha775/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aniruddha775/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aniruddha775/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0744-network-delay-time](https://github.com/Aniruddha775/LeetCode/tree/master/0744-network-delay-time) |
 | [1014-k-closest-points-to-origin](https://github.com/Aniruddha775/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Aniruddha775/LeetCode/tree/master/1127-last-stone-weight) |
 ## Quickselect
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Aniruddha775/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Aniruddha775/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aniruddha775/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/Aniruddha775/LeetCode/tree/master/0744-network-delay-time) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Aniruddha775/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Aniruddha775/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
@@ -480,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Aniruddha775/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Aniruddha775/LeetCode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
