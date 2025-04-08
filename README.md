@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Aniruddha775/LeetCode/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Aniruddha775/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aniruddha775/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0861-flipping-an-image](https://github.com/Aniruddha775/LeetCode/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Aniruddha775/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Aniruddha775/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/Aniruddha775/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Aniruddha775/LeetCode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Aniruddha775/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Aniruddha775/LeetCode/tree/master/0695-max-area-of-island) |
+| [0861-flipping-an-image](https://github.com/Aniruddha775/LeetCode/tree/master/0861-flipping-an-image) |
 | [1036-rotting-oranges](https://github.com/Aniruddha775/LeetCode/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/Aniruddha775/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Binary Search
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Aniruddha775/LeetCode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Aniruddha775/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Aniruddha775/LeetCode/tree/master/0645-set-mismatch) |
+| [0861-flipping-an-image](https://github.com/Aniruddha775/LeetCode/tree/master/0861-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Aniruddha775/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Aniruddha775/LeetCode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Aniruddha775/LeetCode/tree/master/0567-permutation-in-string) |
+| [0861-flipping-an-image](https://github.com/Aniruddha775/LeetCode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Aniruddha775/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aniruddha775/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Aniruddha775/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aniruddha775/LeetCode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Aniruddha775/LeetCode/tree/master/0682-baseball-game) |
+| [0861-flipping-an-image](https://github.com/Aniruddha775/LeetCode/tree/master/0861-flipping-an-image) |
 ## Design
 |  |
 | ------- |
